@@ -21,7 +21,6 @@ Y más...
 [![Sitio Web](https://img.shields.io/badge/Sitio_Web-Porfolio_Stiven_Urresti-9cf?style=for-the-badge&labelColor=101010)](https://porfolio-devstiven.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-StivenUrresti-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/StivenUrresti)
 
-Y más...
 
 ---
 
