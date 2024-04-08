@@ -30,9 +30,7 @@ Y más...
 
 ## Mis Proyectos Destacados:
 
-- [Proyecto 1](https://www.bosquecreativo.com): Breve descripción del Proyecto 1.
-- [Proyecto 2](Enlace al Proyecto 2): Breve descripción del Proyecto 2.
-- [Proyecto 3](Enlace al Proyecto 3): Breve descripción del Proyecto 3.
+- [Proyecto 1](https://www.bosquecreativo.com): Se trata de una plataforma de compras en línea especializada en aretes artesanales con un estilo único y distintivo.
 
 ---
 
