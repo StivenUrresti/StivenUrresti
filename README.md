@@ -30,7 +30,7 @@ Y más...
 
 ## Mis Proyectos Destacados:
 
-- [Proyecto 1](Enlace al Proyecto 1): Breve descripción del Proyecto 1.
+- [Proyecto 1](https://www.bosquecreativo.com): Breve descripción del Proyecto 1.
 - [Proyecto 2](Enlace al Proyecto 2): Breve descripción del Proyecto 2.
 - [Proyecto 3](Enlace al Proyecto 3): Breve descripción del Proyecto 3.
 
