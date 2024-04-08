@@ -3,8 +3,9 @@
 
 ![Seguidores en GitHub](https://img.shields.io/github/followers/tu_usuario_de_github?style=social)
 ![Estrellas en GitHub](https://img.shields.io/github/stars/tu_usuario_de_github?style=social)
-
 ![https://github.com/StivenUrresti](https://raw.githubusercontent.com/StivenUrresti/StivenUrresti/edf1a7b15e64ac475268b93a47d432df868bebf1/Captura%20de%20pantalla%202024-04-08%20a%20la(s)%2012.20.39%E2%80%AFp.%C2%A0m..png)
+
+Desarrollador full stack con 3 años de experiencia y excelente capacidad de trabajo individual y en equipo, capaz de crear aplicaciones móviles con react nativo para Android e IOS, así como crear aplicaciones WEB y Backend.
 
 ---
 
