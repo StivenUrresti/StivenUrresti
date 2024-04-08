@@ -1,10 +1,5 @@
-# ¡Hola, soy Stiven Urresti! 👋
-
-### Soy ingeniero de software profesional con 3 años de experiencia en desarrollo full-stack para iOS y Android, con excelente capacidad para trabajo individual y en equipo.
-
----
-
-<img src="https://www.ticarte.com/sites/su/styles/large/public/users/7/teaser/javascript-code.jpg?itok=B5wflzTZ" alt="Tu Imagen de Perfil" width="100%">
+# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Stiven Urresti 👋
+### full-stack iOS & Android engineer
 
 ![Seguidores en GitHub](https://img.shields.io/github/followers/tu_usuario_de_github?style=social)
 ![Estrellas en GitHub](https://img.shields.io/github/stars/tu_usuario_de_github?style=social)
