@@ -5,8 +5,6 @@
 
 Desarrollador full-stack con 3 años de experiencia y excelente capacidad de trabajo individual y en equipo, capaz de crear aplicaciones móviles con React Native para Android e iOS, así como aplicaciones web y backend.
 
-## Tecnologías:
-
 ### Desarrollo Móvil:
 
 | iOS              | Android          |
