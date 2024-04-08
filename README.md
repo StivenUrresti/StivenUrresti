@@ -1,5 +1,5 @@
 # Hola, mi nombre es Stiven Urresti 👋
-### full-stack iOS & Android engineer
+### full-stack React & React native
 
 ![Stiven Urresti](https://raw.githubusercontent.com/StivenUrresti/StivenUrresti/edf1a7b15e64ac475268b93a47d432df868bebf1/Captura%20de%20pantalla%202024-04-08%20a%20la(s)%2012.20.39%E2%80%AFp.%C2%A0m..png)
 
