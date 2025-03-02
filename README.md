@@ -3,7 +3,8 @@
 
 ![Stiven Urresti](https://raw.githubusercontent.com/StivenUrresti/StivenUrresti/edf1a7b15e64ac475268b93a47d432df868bebf1/Captura%20de%20pantalla%202024-04-08%20a%20la(s)%2012.20.39%E2%80%AFp.%C2%A0m..png)
 
-Desarrollador full-stack con 3 años de experiencia y excelente capacidad de trabajo individual y en equipo, capaz de crear aplicaciones móviles con React Native para Android e iOS, así como aplicaciones web y backend.
+Full Stack Developer versatile and results-oriented professional specializing in building mobile applications using React Native for Android and iOS, as well as creating robust and scalable web and backend solutions. Adept at delivering high-quality code and collaborating effectively in both individual and team settings to drive successful project outcomes.
+
 
 ### Desarrollo Móvil:
 
